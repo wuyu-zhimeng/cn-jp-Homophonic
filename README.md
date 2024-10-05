@@ -13,7 +13,7 @@
 
 然后你把译本.txt拖入softalk就能制作语音了
 
-关于softalk可以看这篇专栏https://www.bilibili.com/read/cv4104293/，里面有下载链接，这里就不给了
+关于softalk可以看这篇专栏https://www.bilibili.com/read/cv4104293 ，里面有下载链接，这里就不给了
 
 ## 还有话要讲？
 本人是代码小白，这个东西就是东拼西凑出来的东西，欢迎批评与交流
