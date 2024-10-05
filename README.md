@@ -14,6 +14,8 @@
 3.你也不想看广告吧（
 
 ## 安装和使用
+演示视频：https://www.bilibili.com/video/BV1PH1RY7Et9/
+
 你可以使用3kb的python源码，但是需要python环境和对应的库，所以我推荐那个10.9M的打包好的exe
 
 打开exe，将你的文本拖入框中，点击按钮，工具目录下会出现一个 译本.txt 
